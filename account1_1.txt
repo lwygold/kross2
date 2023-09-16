@@ -1,5 +1,5 @@
 1:HL["https://lwygold.github.io/kross2/_next/static/css/3433ec227113a40c.css",{"as":"style"}]
-0:["7Y9CmTVn7LmPIi-KPcxcp",[[["",{"children":["account1_1",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"https://lwygold.github.io/kross2/_next/static/css/3433ec227113a40c.css","precedence":"next"}]],"$L3"]]]]
+0:["jYBiMi8uP2fAgYVYgnAz-",[[["",{"children":["account1_1",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"https://lwygold.github.io/kross2/_next/static/css/3433ec227113a40c.css","precedence":"next"}]],"$L3"]]]]
 4:HL["https://lwygold.github.io/kross2/_next/static/css/3ef9d2a89889b19a.css",{"as":"style"}]
 5:I{"id":1399,"chunks":["685:static/chunks/685-327a03d18cadb6e0.js","185:static/chunks/app/layout-ea6bf11499dee552.js"],"name":"","async":false}
 6:I{"id":7767,"chunks":["272:static/chunks/webpack-97f35e9d65a044cc.js","971:static/chunks/fd9d1056-7f6f3d0e6405b687.js","596:static/chunks/596-622ffc9b4ad6b12e.js"],"name":"default","async":false}
